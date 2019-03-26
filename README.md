@@ -23,6 +23,10 @@ Um sistema é um conjunto de elementos que se relacionam entre si, por meio de r
 
 Um sistema computacional é um conjunto de dispositivos com o poder de processar informações de um programa, para que um usuário tenha acesso a tais informações.
 
+### 1.2.  Modelagem Computacional x Modelo Computacional
+
+A modelagem tem por objetivo simular soluções para problemas específicos, analisando o mesmo, para criar modelo matemáticos, que serão implementados por meio de códigos computacionais para assim haver a solução do problema.
+
 ## Referências
 [Conceitos.com 2017] Conceitos.com (2017). Sistema - conceito, o que é, significado. https://conceitos.com/sistema/. Acessado em 09/03/2019.
 
