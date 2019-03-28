@@ -27,6 +27,10 @@ Um sistema computacional é um conjunto de dispositivos com o poder de processar
 
 A modelagem tem por objetivo simular soluções para problemas específicos, analisando o mesmo, para criar modelo matemáticos, que serão implementados por meio de códigos computacionais para assim haver a solução do problema.
 
+## 2.  Modelagem de Sistemas
+
+Modelagem de sistema é método de criação de um modelo do sistema, demonstrando diversas perspectivas, a partir do modelo.
+
 ## Referências
 [Conceitos.com 2017] Conceitos.com (2017). Sistema - conceito, o que é, significado. https://conceitos.com/sistema/. Acessado em 09/03/2019.
 
