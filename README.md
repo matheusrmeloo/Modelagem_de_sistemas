@@ -5,19 +5,19 @@ Um sistema é um conjunto de elementos que se relacionam entre si, por meio de r
 
   São exemplos de tipos de sistemas:
   
-    * Sistema biológico;
-    * Sistema social;
-    * Sistema computacional;
-    * Sistema numérico;
-    * Sistema Organizacional.
+   * Sistema biológico;
+   * Sistema social;
+   * Sistema computacional;
+   * Sistema numérico;
+   * Sistema Organizacional.
   Por sua vez um modelo é um esquema teórico de algo que se deve ser seguido ou imitado. [Conceitos.de 2015]
   
   São exemplos de modelos:
   
-    * Modelo matemático;
-    * Modelo computacional;
-    * Modelo econômico;
-    * Modelo científico.
+   * Modelo matemático;
+   * Modelo computacional;
+   * Modelo econômico;
+   * Modelo científico.
 
 ### 1.1 Sistemas Computacionais
 
