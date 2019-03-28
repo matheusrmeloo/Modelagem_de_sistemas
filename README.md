@@ -31,6 +31,17 @@ A modelagem tem por objetivo simular soluções para problemas específicos, ana
 
 Modelagem de sistema é método de criação de um modelo do sistema, demonstrando diversas perspectivas, a partir do modelo.
 
+### 2.1 Linguagens para modelagem de sistemas
+
+   * Modelagem entidade relacionamento;
+   * Linguagem formal;
+   * Extended Backus–Naur form;
+   * ontology languages;
+   * XML schema;
+   * Meta-Object Facility;
+   * UML;
+   * Linguagem de Restrição de Objeto (OCL).
+
 ## Referências
 [Conceitos.com 2017] Conceitos.com (2017). Sistema - conceito, o que é, significado. https://conceitos.com/sistema/. Acessado em 09/03/2019.
 
