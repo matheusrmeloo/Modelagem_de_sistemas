@@ -46,6 +46,10 @@ Modelagem de sistema é método de criação de um modelo do sistema, demonstran
 
 Linguagens formais são estudos de modelos matemáticos que possibilitam a especificação e o reconhecimento de linguagens, suas classificações, estruturas, propriedades, características e inter-relacionamentos.
 
+
+### 3.1 Métodos Semiformais
+Linguagem para desenvolvimento de sistemas, não ambígua, porém com baixo grau de completude e sem consistência, como exemplo a UML.
+
 ## Referências
 [Conceitos.com 2017] Conceitos.com (2017). Sistema - conceito, o que é, significado. https://conceitos.com/sistema/. Acessado em 09/03/2019.
 
