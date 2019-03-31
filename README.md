@@ -48,7 +48,12 @@ Linguagens formais são estudos de modelos matemáticos que possibilitam a espec
 
 
 ### 3.1 Métodos Semiformais
+
 Linguagem para desenvolvimento de sistemas, não ambígua, porém com baixo grau de completude e sem consistência, como exemplo a UML.
+
+### 3.2 Métodos Formais
+
+Métodos formais são métodos de elaboração de sistemas que priorizam a coesão do mesmo, uma vez que são modelados por princípios matemáticos que asseguram a exatidão das especificações do projeto de software.
 
 ## Referências
 [Conceitos.com 2017] Conceitos.com (2017). Sistema - conceito, o que é, significado. https://conceitos.com/sistema/. Acessado em 09/03/2019.
