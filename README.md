@@ -55,6 +55,12 @@ Linguagem para desenvolvimento de sistemas, não ambígua, porém com baixo grau
 
 Métodos formais são métodos de elaboração de sistemas que priorizam a coesão do mesmo, uma vez que são modelados por princípios matemáticos que asseguram a exatidão das especificações do projeto de software.
 
+## 4. Exemplos de Linguagens Formais
+
+### 4.1 Notação Z
+
+É baseada em teoria dos conjuntos para especificar as informações e operações do software, e em lógica de predicado de primeira ordem para demonstrar os comportamentos e propriedades do mesmo. Modela sistemas sequenciais. Processo de especificação baseado em esquemas, ou seja, existem duas partes a declarativa, que é a declaração das variáveis e a predicativa que é a relação entra as variáveis.
+
 ## Referências
 [Conceitos.com 2017] Conceitos.com (2017). Sistema - conceito, o que é, significado. https://conceitos.com/sistema/. Acessado em 09/03/2019.
 
