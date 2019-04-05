@@ -55,11 +55,17 @@ Linguagem para desenvolvimento de sistemas, não ambígua, porém com baixo grau
 
 Métodos formais são métodos de elaboração de sistemas que priorizam a coesão do mesmo, uma vez que são modelados por princípios matemáticos que asseguram a exatidão das especificações do projeto de software.
 
-## 4. Exemplos de Linguagens Formais
+## 5. Exemplos de Linguagens Formais
 
-### 4.1 Notação Z
+### 5.1 Notação Z
 
 É baseada em teoria dos conjuntos para especificar as informações e operações do software, e em lógica de predicado de primeira ordem para demonstrar os comportamentos e propriedades do mesmo. Modela sistemas sequenciais. Processo de especificação baseado em esquemas, ou seja, existem duas partes a declarativa, que é a declaração das variáveis e a predicativa que é a relação entra as variáveis.
+
+### 5.2 Larch
+
+Larch é uma família de idiomas destinado a especificação formal do sistema e a verificação dos módulos do mesmo. Existem inúmeras linguagens de programação que dão suporte a mesma, podendo citar C, C++, Ada, Modula-3, CLU, CORBA IDL e outras mais.
+
+As especificações em Larch se subdividem em em duas camadas, sendo uma a LSL (Larch Shared Language) que define modelos matemáticos (tipo dos dados e operadores) para a especificação formal dos requisitos, diferente da notação Z, a Larch utiliza a especificação algébrica dos dados para modelar o sistema. A outra camada da Larch é a BISL (behavioral interface specification language), ela se utilizada dos dados modelados na LSL, para criar interfaces e funções que conectem os dados e operações de forma a completar a modelagem do sistema.
 
 ## Referências
 [Conceitos.com 2017] Conceitos.com (2017). Sistema - conceito, o que é, significado. https://conceitos.com/sistema/. Acessado em 09/03/2019.
