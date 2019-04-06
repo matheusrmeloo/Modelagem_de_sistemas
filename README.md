@@ -55,6 +55,14 @@ Linguagem para desenvolvimento de sistemas, não ambígua, porém com baixo grau
 
 Métodos formais são métodos de elaboração de sistemas que priorizam a coesão do mesmo, uma vez que são modelados por princípios matemáticos que asseguram a exatidão das especificações do projeto de software.
 
+## 4. Etapas Desenvolvimento de Software
+
+Os métodos formais podem ser utilizados em todo o projeto do software ou somente em partes do mesmo.
+
+### 4.1 Especificação Formal
+
+A especificação formal trabalha em conjunto com a especificação de requisitos, uma vez que é listado os requisitos funcionais e não funcionais do sistema, para que após se formalize os mesmo por meio de algum método formal, criando uma modelagem com elementos formais.
+
 ## 5. Exemplos de Linguagens Formais
 
 ### 5.1 Notação Z
