@@ -63,6 +63,12 @@ Os métodos formais podem ser utilizados em todo o projeto do software ou soment
 
 A especificação formal trabalha em conjunto com a especificação de requisitos, uma vez que é listado os requisitos funcionais e não funcionais do sistema, para que após se formalize os mesmo por meio de algum método formal, criando uma modelagem com elementos formais.
 
+Neste momento não se preza somente a formalização dos requisitos, mas também como os requisitos se relacionam e se comportam, levando a se analisar coisas como interfaces com o ambiente, noção de estados do sistema, noção de requisitos de segurança e o nível de integridade do software.
+
+### 4.2 Refinamento
+
+Na fase de refinamento se pensa na arquitetura do sistema, assim como, quais operações e em que sequência o mesmo irá executar. Interfaces, tipos de dados e relacionamentos, também fazem parte do refinamento do sistema.  
+
 ## 5. Exemplos de Linguagens Formais
 
 ### 5.1 Notação Z
