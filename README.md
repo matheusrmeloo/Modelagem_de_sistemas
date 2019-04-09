@@ -69,6 +69,10 @@ Neste momento não se preza somente a formalização dos requisitos, mas também
 
 Na fase de refinamento se pensa na arquitetura do sistema, assim como, quais operações e em que sequência o mesmo irá executar. Interfaces, tipos de dados e relacionamentos, também fazem parte do refinamento do sistema.  
 
+### 4.3 Síntese
+
+A fase de síntese tem por função utilizar o sistema refinado para criar um esqueleto do código, a partir do mesmo, para assim se ter uma noção de como se estruturará o sistema real.
+
 ## 5. Exemplos de Linguagens Formais
 
 ### 5.1 Notação Z
